@@ -1,3 +1,5 @@
+//created by Michael Kuhn
+
 package nn;
 
 public class NeuralNet {
