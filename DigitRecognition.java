@@ -1,3 +1,5 @@
+//Created by Michael Kuhn
+
 import nn.*;
 import java.util.Scanner;
 
